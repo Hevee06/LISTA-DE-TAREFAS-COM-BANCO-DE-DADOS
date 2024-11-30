@@ -1,2 +1,2 @@
-# LISTA-DE-TAREFAS-COM-BANCO-DE-DADOS
-Versão da minha lista de tarefas com o sistema do banco de dados inserido
+# LISTA-DE-TAREFAS
+Projeto feito em Python com banco de dados SQLite e Flask para armazenar tarefas em uma lista, com valores e prazos estipulados.
